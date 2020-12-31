@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
-const xmasEve = `25 Dec 2020`;
+const xmasEve = `25 Dec 2021`;
 
 function countDown() {
 	const xmasEveDate = new Date(xmasEve);
