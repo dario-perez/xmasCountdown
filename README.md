@@ -1,3 +1,3 @@
 # xmasCountdown
 
-https://xmas-countdown-navy.vercel.app/
+https://xmas-countdown-3dc86d.netlify.app/
